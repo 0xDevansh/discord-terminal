@@ -12,10 +12,10 @@
 git clone https://github.com/DeathVenom54/discord-terminal.git
 cd discord-terminal
 
-// with yarn:
+# with yarn:
 yarn
 
-// with npm:
+# with npm:
 npm install --save
 ```
 
