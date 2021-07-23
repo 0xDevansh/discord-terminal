@@ -23,22 +23,18 @@ npm install --save
 
 3) Run the bot using `npm run start` or `yarn start`
 
-### config.json
+## Configuration
 
-This file holds the needed information
+`src/confiig.json` holds the needed information to get the bot running
 
-#### token
+**token** The token for your Discord bot. Obtain it from the [Discord developer portal](https://discord.com/developers/applications)
 
-The token for your Discord bot. Obtain it from the [Discord developer portal](https://discord.com/developers/applications)
+  [How do I create a bot?](https://www.howtogeek.com/364225/how-to-make-your-own-discord-bot/)
 
-[How do I create a bot?](https://www.howtogeek.com/364225/how-to-make-your-own-discord-bot/)
-
-#### allowed
-
-This is an array containing the Discord ID's of the users who can run commands.
+**allowed**  This is an array containing the Discord ID's of the users who can run commands.
 The bot will ignore messages from others.
 
-[How do I find my Discord ID?](https://techswift.org/2020/04/22/how-to-find-your-user-id-on-discord/)
+  [How do I find my Discord ID?](https://techswift.org/2020/04/22/how-to-find-your-user-id-on-discord/)
 
 ## Why did I make this?
 
